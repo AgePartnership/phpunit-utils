@@ -1,0 +1,20 @@
+{
+    "name": "agepartnership/phpunit-utils",
+    "description": "Handy helpers for PHPUnit testing",
+    "type": "library",
+    "require": {
+        "symfony/test-pack": "^1.0"
+    },
+    "license": "Private Software",
+    "autoload": {
+        "psr-4": {
+            "AgePartnership\\PHPUnitUtils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kieran Phillips",
+            "email": "kieran.phillips@agepartnership.com"
+        }
+    ]
+}
